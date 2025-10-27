@@ -1,2 +1,5 @@
 # Pharmacy-Management-System
 C++ Pharmacy System to manage medicines, update stock, and generate bills using file handling.
+<p>ChatGPT said:
+
+The Pharmacy Management System efficiently handles the operations of a pharmacy using file handling in C++. The program begins by loading existing medicine data from a file into memory. Through a simple menu-driven interface, users can add new medicines with their name, price, and quantity, which are then saved to the file. It allows users to search for medicines by name, edit existing medicine details such as price and quantity, and display the entire stock in sorted order for easy viewing. The billing feature lets users generate a detailed bill by selecting medicines and quantities, automatically calculating the total cost and updating stock levels in real time. All changes are saved back to the file using the update function, ensuring persistent data. Overall, it automates inventory management, sales, and billing for pharmacies in an organized and user-friendly manner.</p>
